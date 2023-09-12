@@ -1,0 +1,2 @@
+verilen kodda ki örnekte  'https://api.binance.com/api/v3/klines?symbol=SOLUSDT&interval=30m&limit=200'  bu şekilde binance apisi baz alınmıştır , 
+dökümantasyona buradan ulaşabilirsiniz https://github.com/binance/binance-spot-api-docs/blob/master/rest-api.md#klinecandlestick-data
